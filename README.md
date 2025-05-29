@@ -14,7 +14,7 @@ With solid frontend chops and full-stack experience, I craft seamless, performan
 
 > **Going onwards and upwards — with code, creativity, and caffeine. 🚀**
 ### 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/vineet_jadhav29)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kumudini-gholap-687246292/)  
 - 🧑‍💻 [GitHub](https://www.linkedin.com/in/kumudini-gholap-687246292/)
 - 🧠 [LeetCode](https://leetcode.com/u/kumudini1308/)
 - 📚 [GeeksforGeeks](https://www.geeksforgeeks.org/user/kumudinawfv/)
