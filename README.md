@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**kumudini7/kumudini7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey Developers 👋 I'm Kumudini
+### A Passionate Full-Stack Developer from India ❤️
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there! I’m a **4th-year Computer Science student at NIT Surat** who thrives at the intersection of **design** and **code**.  
+With solid frontend chops and full-stack experience, I craft seamless, performant, and beautiful digital experiences.
+
+- 💭 I thrive on curiosity — breaking things, fixing them, and learning in the process  
+- 🎨 Design and dev go hand-in-hand for me; I care deeply about how things **look** and **work**  
+- 🛠️ Whether it’s crafting APIs or tweaking CSS, I love bringing ideas to life  
+- 🎯 When I’m not coding, I’m drawing on my sketchpad, plotting chess moves, or brewing my next cup of coffee ☕
+
+> **Going onwards and upwards — with code, creativity, and caffeine. 🚀**
+### 🔗 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vineet_jadhav29](https://www.linkedin.com/in/kumudini-gholap-687246292/))  
+- 🧑‍💻 [GitHub](https://github.com/kumudini7)  
+
+
