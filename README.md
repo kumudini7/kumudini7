@@ -46,4 +46,5 @@ With solid frontend chops and full-stack experience, I craft seamless, performan
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+![Profile views](https://komarev.com/ghpvc/?username=kumudini-gholap&color=blue)
 
